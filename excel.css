@@ -1,0 +1,29 @@
+.app {
+    text-align: center;
+    margin: 4em;
+    border-radius: 5px;
+    padding: 2em;
+    overflow: auto;
+}
+
+.header {
+    font-weight: normal;
+    margin-top: 0;
+}
+
+input {
+    background: none;
+    border: 1px black solid;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    border-radius: 2px;
+    margin: 1px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 10px;
+}
+
+.table {
+    margin: 0 auto;
+}
